@@ -6,6 +6,20 @@ This repo will remove files within the specified directory that have been modifi
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See schedule cleanup for notes on how to execute this script on a set schedule for MacOS.
 
+### Prerequisites
+
+What things you need to install the software and how to install them
+
+Homebrew
+```
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
+
+Python 3
+```
+brew install python
+```
+
 ### Installing
 
 A step by step series of examples that tell you how to execute the cleanup script
